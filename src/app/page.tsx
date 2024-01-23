@@ -1,7 +1,7 @@
-import Image from "next/image";
+import { Screener } from "@/components/Screener";
 
 export default function Home() {
   return (
-    <>screener</>
+    <><Screener /></>
   );
 }
